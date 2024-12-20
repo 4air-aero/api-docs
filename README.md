@@ -1,4 +1,4 @@
-# BETA
+# API Documentation
 
 > **Note:** This API is currently in **beta**. Functionality and endpoints may change without notice.
 
