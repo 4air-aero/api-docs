@@ -8,7 +8,7 @@ To access the endpoints, include the following header in your requests:
 
 ### Header:
 ```plaintext
-x-api-key: {{KEY}}
+x-api-key: x-provided-x
 ```
 **Note**: The x-api-key value is subject to change. Please ensure you use the most up-to-date key provided.
 
