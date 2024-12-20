@@ -187,7 +187,7 @@ For any issues or questions regarding the API, please contact our support team a
 
 
 <style>
-.red-text { color: red; }
-.yellow-text { color: yellow; }
+/* .red-text { color: red; } */
+/* .yellow-text { color: yellow; } */
 .green-text { color: green; }
 </style>
