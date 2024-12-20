@@ -47,7 +47,7 @@ x-api-key: x-provided-x
     "co2unit": "kg"
 }
 ```
-## co2-calculator/route
+## /co2-calculator/route
 
 <h3 class="yellow-text">POST</h3>
 
@@ -90,7 +90,7 @@ x-api-key: x-provided-x
 }
 ```
 
-## co2-quote/hours
+## /co2-quote/hours
 
 <h3 class="yellow-text">POST</h3>
 
@@ -131,7 +131,7 @@ x-api-key: x-provided-x
 }
 ```
 
-## co2-quote/route
+## /co2-quote/route
 
 <h3 class="yellow-text">POST</h3>
 
@@ -182,7 +182,7 @@ x-api-key: x-provided-x
 
 **Contact**
 
-For any issues or questions regarding the API, please contact our support team at support@example.com.
+For any issues or questions regarding the API, please contact our support team at joshua.blackhurst@4air.aero.
 
 
 
